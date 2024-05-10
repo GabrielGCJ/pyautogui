@@ -1,1 +1,1 @@
-# Apenas uma automatização de area de trabalho 
+# Apenas uma automatização de area de trabalho usando pyautogui.
